@@ -21,7 +21,7 @@
   </a>
 </p>
 
-# How to Use SpotVital?
+# How to Use Preceptor?
 
 - Step-1: Download the App ✔
 - Step-2: If you are an existing user then login with your details else signup.
